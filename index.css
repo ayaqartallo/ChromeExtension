@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    width: 500px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid blueviolet;
+    margin-bottom: 4px;
+    margin: 5%;
+}
+
+button:first-of-type {
+    margin-left: 15%;
+}
+button{
+    background-color: blueviolet;
+    color: aliceblue;
+    font-weight: 500;
+    border: none;
+}
+ul {
+    margin-top: 20px;
+    list-style: none;
+    margin-left: 5%;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: blueviolet;
+}
